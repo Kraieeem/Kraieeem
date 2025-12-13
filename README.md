@@ -52,7 +52,6 @@ At the same time, I decided to take control of my academic path. I taught myself
 If you’d like to reach me regarding projects, opportunities, or academic collaborations, you can contact me here:
 	•	 Email: kraiemkoussay@gmail.com
 	•	 GitHub: github.com/Kraieeem
-  •  phone number: +216 92608704
 I’m always open to discussing data science, AI projects, or ideas that can make a real impact.
 
 
