@@ -1,6 +1,6 @@
 Hi, I’m Koussay Kraiem
 
-I’m an 18-year-old student from Tunisia with a growing passion for data science, AI, and mathematics.I speak Arabic, French, English, and German, and growing up multilingual helped me think differently, adapt quickly, and understand problems from many angles.
+I’m an 19-year-old student from Tunisia with a growing passion for data science, AI, and mathematics.I speak Arabic, French, English, and German, and growing up multilingual helped me think differently, adapt quickly, and understand problems from many angles.
 I love building things that think , whether it’s an ML model, a prediction system, or a small AI game.
 Every project I work on is part of my journey toward studying AI and data science at a top university.
 Recently, I also completed a certified training in Artificial Intelligence with Raspberry Pi, where I learned how to program micro-controllers and understand the logic behind intelligent systems.
@@ -53,11 +53,6 @@ If you’d like to reach me regarding projects, opportunities, or academic colla
 	•	 Email: kraiemkoussay@gmail.com
 	•	 GitHub: github.com/Kraieeem
 I’m always open to discussing data science, AI projects, or ideas that can make a real impact.
-
-
-
-
-
 
 
 
